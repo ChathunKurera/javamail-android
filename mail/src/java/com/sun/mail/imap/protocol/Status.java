@@ -49,7 +49,7 @@ import com.sun.mail.iap.*;
  * @author  John Mani
  */
 
-public class Status { 
+public class Status {
     public String mbox = null;
     public int total = -1;
     public int recent = -1;
